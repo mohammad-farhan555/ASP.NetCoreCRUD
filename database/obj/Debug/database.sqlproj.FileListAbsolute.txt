@@ -1,0 +1,16 @@
+D:\DATA\Downloads\CurdOperationWithDapperNetCoreMVC_Demo-master\database\bin\Debug\database.dacpac
+D:\DATA\Downloads\CurdOperationWithDapperNetCoreMVC_Demo-master\database\bin\Debug\database.dll
+D:\DATA\Downloads\CurdOperationWithDapperNetCoreMVC_Demo-master\database\bin\Debug\database.pdb
+D:\DATA\Downloads\CurdOperationWithDapperNetCoreMVC_Demo-master\database\obj\Debug\database.sqlproj.AssemblyReference.cache
+D:\DATA\Downloads\CurdOperationWithDapperNetCoreMVC_Demo-master\database\obj\Debug\database.dll
+D:\DATA\Downloads\CurdOperationWithDapperNetCoreMVC_Demo-master\database\obj\Debug\database.pdb
+C:\Users\M Farhan Javed\Downloads\DotNetCoreMVC-master\DotNetCoreMVC-master\database\bin\Debug\database.dacpac
+C:\Users\M Farhan Javed\Downloads\DotNetCoreMVC-master\DotNetCoreMVC-master\database\bin\Debug\database.dll
+C:\Users\M Farhan Javed\Downloads\DotNetCoreMVC-master\DotNetCoreMVC-master\database\bin\Debug\database.pdb
+C:\Users\M Farhan Javed\Downloads\DotNetCoreMVC-master\DotNetCoreMVC-master\database\obj\Debug\database.sqlproj.AssemblyReference.cache
+C:\Users\M Farhan Javed\Downloads\DotNetCoreMVC-master\DotNetCoreMVC-master\database\obj\Debug\database.dll
+C:\Users\M Farhan Javed\Downloads\DotNetCoreMVC-master\DotNetCoreMVC-master\database\obj\Debug\database.pdb
+C:\Users\M Farhan Javed\Downloads\DotNetCoreMVC-master\DotNetCoreMVC-master\database\obj\Debug\Model.xml
+C:\Users\M Farhan Javed\Downloads\DotNetCoreMVC-master\DotNetCoreMVC-master\database\obj\Debug\refactor.xml
+C:\Users\M Farhan Javed\Downloads\DotNetCoreMVC-master\DotNetCoreMVC-master\database\obj\Debug\postdeploy.sql
+C:\Users\M Farhan Javed\Downloads\DotNetCoreMVC-master\DotNetCoreMVC-master\database\obj\Debug\predeploy.sql

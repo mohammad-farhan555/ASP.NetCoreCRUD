@@ -6,17 +6,17 @@ namespace CurdOperationWithDapperNetCoreMVC_Demo.Models
     {
         public Guid ProductId { get; set; }
 
-        [Display(Name = "Product Name")]
+        [Display(Name = "Product")]
         public string ProductName { get; set; }
         public decimal Price { get; set; }
 
-        [Display(Name = "Prodcut Description")]
+        [Display(Name = "Description")]
         public string ProdcutDescription { get; set; }
 
-        [Display(Name = "Create Date")]
+        [Display(Name = "Created")]
         public DateTime? CreatedOn { get; set; }
 
-        [Display(Name = "Update Date")]
+        [Display(Name = "Updated")]
         public DateTime? UpdateOn { get; set; }
     }
 }
